@@ -1,0 +1,27 @@
+:root {
+  --chakra-colors-gray-800: #1A202C;
+}
+
+select option {
+  background-color: #1A202C !important;
+  color: white !important;
+  padding: 8px !important;
+}
+
+select {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: #1A202C !important;
+  color: white !important;
+}
+
+.chakra-select__wrapper {
+  background-color: #1A202C !important;
+}
+
+.chakra-select option {
+  background-color: #1A202C !important;
+  color: white !important;
+  padding: 8px !important;
+}
